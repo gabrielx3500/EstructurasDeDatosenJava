@@ -1,0 +1,31 @@
+Tipos de datos abstractos:
+
+Es un tipo de dato definido por el programador
+
+Es un tipo de datos que cosnta de datos propias y es posible realizar operaciones sobre ellos
+
+Un tipo de Datos Abstractos se compone de estructuras de datos o funciones que manipulan esa estructura de datos
+
+Un TDA (Una estructura de Datos) puede definirse mediante la ecuacion:
+
+TDA = Representacion(datos) + Operaciones(Metodos)
+
+La estructura de un tipo de datos abstractos(clase), desde un punto de vista global, se compone de Interfaz
+y de la implementcion
+
+02.- Modularidad:
+
+Para que sirven los metodos?
+
+1.-Reutilizacion de codigo
+2.-Para mejor comprension del codigo
+3.-Orden
+4.-Separacion de tareas
+5.-Realizar trabajos complejos
+
+Que contiene un metodo de Java?
+
+1.-Un bloque de codigo con su respectivo Nombre
+2.-Recibe parametros o argumentos
+3.-Accones o instrucciones a realizar
+4.-Devuelve un valor de un tipo conocido

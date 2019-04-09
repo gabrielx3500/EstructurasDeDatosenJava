@@ -1,0 +1,13 @@
+Recursividad:
+
+Algo que vuelve a recurrir. Tambien podemos llamralo como un metodo que se llama a si mismo
+
+Pero la mejor for,ma de definirlo es: Procedimiento para resolver un problema complejo
+reduciendolo en uno o mas subproblemas
+
+Caracteristicas:
+1.- Tiene la misma estructura que el problema original
+2.- Mas simple de resolver que el problema original
+3.- Cada subproblema se divide, usando el mismo procedimiento, 
+en subproblemas mas simples
+4.- Los subproblemas se harann mas imples que no hara falta dividirlos mas
